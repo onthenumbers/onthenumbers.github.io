@@ -21,11 +21,8 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  
-defaults:
-  - scope:
-      path: "_posts"
-      type: "posts"
       
 paginate: 5
     
+permalink:        /:year/:month/:day/:title.html
+sidebar_home_link: true # this is the sidebar VERY IMPORTANT
