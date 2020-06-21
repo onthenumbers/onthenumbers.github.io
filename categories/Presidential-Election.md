@@ -25,7 +25,27 @@ title: Presidential Election
 
 ### States in Play (231)
 
-<span style="display: block; float: left;">**Safe Democratic States (183)**
+<span style="display:block; float:left;">**Left Column Title
+
+Thing 1
+
+Thing 2
+
+Thing 3
+
+</span>
+
+<span style="display:block; float:right;">**Right column title**
+
+Thing 4
+
+Thing 5
+
+Thing 6
+
+</span>
+
+<!--<span style="display: block; float: left;">**Safe Democratic States (183)**
 * California
 * Oregon
 * Washington
@@ -82,3 +102,4 @@ title: Presidential Election
 * Utah
 * Idaho
 * Wyoming
+</span> -->
