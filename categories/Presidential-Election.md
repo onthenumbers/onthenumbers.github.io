@@ -26,115 +26,59 @@ title: Presidential Election
 ### States in Play (231)
 
 <span style="display: block; float: left;">**Safe Democratic States (183)**
-
-California
-
-Oregon
-
-Washington
-
-Maryland
-
-Delaware
-
-Illinois
-
-New Jersey
-
-New York
-
-Vermont
-
-Massachusetts
-
-Rhode Island
-
-Connecticut
-
-District of Columbia</span>
-
+* California
+* Oregon
+* Washington
+* Maryland
+* Delaware
+* Illinois
+* New Jersey
+* New York
+* Vermont
+* Massachusetts
+* Rhode Island
+* Connecticut
+* District of Columbia</span>
 <span style="display: block; float: center;">**Likely Democratic (28)**
-
-Minnesota
-
-Virginia
-
-New Mexico
-
+* Minnesota
+* Virginia
+* New Mexico
 **Lean Democratic (19)**
-
-Nevada
-
-Colorado
-
-New Hampshire
-
+* Nevada
+* Colorado
+* New Hampshire
 **Tipping Points / Swing States (102)**
-
-Pennsylvania
-
-North Carolina
-
-Michigan
-
-Wisconsin
-
-Florida
-
-Arizona
-
-Nebraska D2
-
+* Pennsylvania
+* North Carolina
+* Michigan
+* Wisconsin
+* Florida
+* Arizona
+* Nebraska D2
 **Lean Republican (61)**
-
-Texas
-
-Maine D2
-
-Georgia
-
-Iowa
-
+* Texas
+* Maine D2
+* Georgia
+* Iowa
 **Likely Republican (18)**
-
-Ohio</span>
-
+* Ohio</span>
 <span style="display: block; float: right;">**Safe Republican States (125)**
-
-West Virginia
-
-South  Carolina
-
-Tennessee
-
-Alabama
-
-Mississippi
-
-Indiana
-
-Kentucky
-
-Arkansas
-
-Missouri
-
-Louisiana
-
-Oklahoma
-
-Nebraska AL, D1, D3
-
-Kansas
-
-North Dakota
-
-South Dakota
-
-Montana
-
-Utah
-
-Idaho
-
-Wyoming
+* West Virginia
+* South  Carolina
+* Tennessee
+* Alabama
+* Mississippi
+* Indiana
+* Kentucky
+* Arkansas
+* Missouri
+* Louisiana
+* Oklahoma
+* Nebraska AL, D1, D3
+* Kansas
+* North Dakota
+* South Dakota
+* Montana
+* Utah
+* Idaho
+* Wyoming
