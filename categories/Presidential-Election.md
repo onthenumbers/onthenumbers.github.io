@@ -16,11 +16,7 @@ title: Presidential Election
 | ---- | ----- | ----- | --------------- | ------ |
 |      |       |       |                 |        |
 
-<span style="float: left; display: block;">
-
-**Safe Democratic States**
-
-**(183)**
+<span style="float: left; display: block;">**Safe Democratic States (183)**
 
 California
 
@@ -44,9 +40,7 @@ Massachusetts
 
 Rhode Island
 
-Conneticut
+Connecticut
 
-District of Columbia
-
-</span>
+District of Columbia</span>
 
