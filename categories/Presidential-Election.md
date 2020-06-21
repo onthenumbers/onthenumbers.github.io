@@ -2,9 +2,51 @@
 layout: category
 title: Presidential Election
 ---
-<div style="background-color: red; padding: 10px;">
-  <h1 style="color: white;">Race To the White House</h1>
-</div>
-work in progress
+<h1 style="float: center;">Race to the White House</h1>
 
-im workin on it over here
+<hr style="color:red;">
+
+## Polls
+
+---
+
+### Biden vs. Trump vs. Jorgensen vs. Hawkins
+
+|      | Biden | Trump | Margin of Error | Sample |
+| ---- | ----- | ----- | --------------- | ------ |
+|      |       |       |                 |        |
+
+<span style="float: left; display: block;">
+
+**Safe Democratic States**
+
+**(183)**
+
+California
+
+Oregon
+
+Washington
+
+Maryland
+
+Delaware
+
+Illinois
+
+New Jersey
+
+New York
+
+Vermont
+
+Massachusetts
+
+Rhode Island
+
+Conneticut
+
+District of Columbia
+
+</span>
+
