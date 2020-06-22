@@ -25,7 +25,7 @@ title: Presidential Election
 
 ### States in Play (231)
 
-{% include row.html content="
+{% include row.html content='
 {% include column.html content="
 **Safe Democratic States (183)**
 
@@ -141,4 +141,4 @@ title: Presidential Election
 
 * Wyoming
 " %}
-" %}
+'' %} <!-- close row -->
