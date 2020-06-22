@@ -29,116 +29,120 @@ title: Presidential Election
 {% include column.html %}
 **Safe Democratic States (183)**
 
-* California
+California
 
-* Oregon
+Oregon
 
-* Washington
+Washington
 
-* Maryland
+Maryland
 
-* Delaware
+Delaware
 
-* Illinois
+Illinois
 
-* New Jersey
+New Jersey
 
-* New York
+New York
 
-* Vermont
+Vermont
 
-* Massachusetts
+Massachusetts
 
-* Rhode Island
+Rhode Island
 
-* Connecticut
+Connecticut
 
-* District of Columbia
+District of Columbia
 {% include endsection.html %} <!-- End Column -->
 
 {% include column.html %}
 **Likely Democratic (28)**
 
-* Minnesota
+Minnesota
 
-* Virginia
+Virginia
 
-* New Mexico
-  **Lean Democratic (19)**
+New Mexico
 
-* Nevada
+**Lean Democratic (19)**
 
-* Colorado
+Nevada
 
-* New Hampshire
-  **Tipping Points / Swing States (102)**
+Colorado
 
-* Pennsylvania
+New Hampshire
 
-* North Carolina
+**Tipping Points / Swing States (102)**
 
-* Michigan
+Pennsylvania
 
-* Wisconsin
+North Carolina
 
-* Florida
+Michigan
 
-* Arizona
+Wisconsin
 
-* Nebraska D2
-  **Lean Republican (61)**
+Florida
 
-* Texas
+Arizona
 
-* Maine D2
+Nebraska D2
 
-* Georgia
+**Lean Republican (61)**
 
-* Iowa
-  **Likely Republican (18)**
+Texas
 
-* Ohio
+Maine D2
+
+Georgia
+
+Iowa
+
+**Likely Republican (18)**
+
+Ohio
 {% include endsection.html %} <!-- end column -->
 
 {% include column.html %}
 **Safe Republican States (125)**
 
-* West Virginia
+West Virginia
 
-* South  Carolina
+South  Carolina
 
-* Tennessee
+Tennessee
 
-* Alabama
+Alabama
 
-* Mississippi
+Mississippi
 
-* Indiana
+Indiana
 
-* Kentucky
+Kentucky
 
-* Arkansas
+Arkansas
 
-* Missouri
+Missouri
 
-* Louisiana
+Louisiana
 
-* Oklahoma
+Oklahoma
 
-* Nebraska AL, D1, D3
+Nebraska AL, D1, D3
 
-* Kansas
+Kansas
 
-* North Dakota
+North Dakota
 
-* South Dakota
+South Dakota
 
-* Montana
+Montana
 
-* Utah
+Utah
 
-* Idaho
+Idaho
 
-* Wyoming
+Wyoming
 {% include endsection.html %} <!-- end column -->
 {% include endsection.html %} <!-- end row -->
