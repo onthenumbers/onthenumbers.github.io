@@ -25,81 +25,120 @@ title: Presidential Election
 
 ### States in Play (231)
 
-<span style="display:block; float:left;">**Left Column Title
+{% include row.html content="
+{% include column.html content="
+**Safe Democratic States (183)**
 
-Thing 1
-
-Thing 2
-
-Thing 3
-
-</span>
-
-<span style="display:block; float:right;">**Right column title**
-
-Thing 4
-
-Thing 5
-
-Thing 6
-
-</span>
-
-<!--<span style="display: block; float: left;">**Safe Democratic States (183)**
 * California
+
 * Oregon
+
 * Washington
+
 * Maryland
+
 * Delaware
+
 * Illinois
+
 * New Jersey
+
 * New York
+
 * Vermont
+
 * Massachusetts
+
 * Rhode Island
+
 * Connecticut
-* District of Columbia</span>
-<span style="display: block; float: center;">**Likely Democratic (28)**
+
+* District of Columbia
+"%}
+
+{% include column.html content="
+  **Likely Democratic (28)**
+
 * Minnesota
+
 * Virginia
+
 * New Mexico
-**Lean Democratic (19)**
+  **Lean Democratic (19)**
+
 * Nevada
+
 * Colorado
+
 * New Hampshire
-**Tipping Points / Swing States (102)**
+  **Tipping Points / Swing States (102)**
+
 * Pennsylvania
+
 * North Carolina
+
 * Michigan
+
 * Wisconsin
+
 * Florida
+
 * Arizona
+
 * Nebraska D2
-**Lean Republican (61)**
+  **Lean Republican (61)**
+
 * Texas
+
 * Maine D2
+
 * Georgia
+
 * Iowa
-**Likely Republican (18)**
-* Ohio</span>
-<span style="display: block; float: right;">**Safe Republican States (125)**
+  **Likely Republican (18)**
+
+* Ohio
+" %}
+
+{% include column.html content="
+  **Safe Republican States (125)**
+
 * West Virginia
+
 * South  Carolina
+
 * Tennessee
+
 * Alabama
+
 * Mississippi
+
 * Indiana
+
 * Kentucky
+
 * Arkansas
+
 * Missouri
+
 * Louisiana
+
 * Oklahoma
+
 * Nebraska AL, D1, D3
+
 * Kansas
+
 * North Dakota
+
 * South Dakota
+
 * Montana
+
 * Utah
+
 * Idaho
+
 * Wyoming
-</span> -->
+" %}
+" %}
