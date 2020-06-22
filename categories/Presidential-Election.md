@@ -1,10 +1,8 @@
 ---
 layout: category
-title: Presidential Election
+title: Race to the White House
+category: Presidential Election
 ---
-<h1 style="float: center;">Race to the White House</h1>
-
-<hr style="color:red;">
 
 ## Polls
 
@@ -146,3 +144,15 @@ Idaho
 Wyoming
 {% include endsection.html %} <!-- end column -->
 {% include endsection.html %} <!-- end row -->
+
+## Pollster + Aggregation Sources
+
+Our work is, in itself, an aggregation. Most of our data stems from outside organizations known as **pollster aggregations**, which compile polls, studies, and surveys and weight them for accuracy to provide us with graphics and easy-to-understand visuals to help us to conceptualize important pieces of political data, such as public opinion on political figures and legislation, candidate head-to-head matchups, and sources of public support for certain things in certain places. These are some of the most important aggregations that we feel are the most helpful for us.
+
+### fivethirtyeight
+
+Five-Thirty Eight, led by Nate Silver, is a popular aggregation used to represent data. It is renowned for its mathematical presidential formula and poll-weighting system, but also for its podcast, articles, and beautiful graphics.
+
+### Real Clear Politics
+
+Five-Thirty Eight, led by Nate Silver, is a popular aggregation used to represent data. It is renowned for its mathematical presidential formula and poll-weighting system, but also for its podcast, articles, and beautiful graphics.
