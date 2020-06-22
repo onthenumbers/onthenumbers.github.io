@@ -23,7 +23,7 @@ title: Presidential Election
 | Economist/YouGov | 50 | 41 | 3.5 | 1160 RV | D +9 |
 | CNBC | 51 | 41 | 2.8 | 1250 LV | D +10 |
 
-### States in Play (231)
+<h3 style="text-align: center;">States in Play (231)</h3>
 
 {% include row.html %}
 {% include column.html %}
