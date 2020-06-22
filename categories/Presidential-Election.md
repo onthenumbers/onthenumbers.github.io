@@ -25,8 +25,8 @@ title: Presidential Election
 
 ### States in Play (231)
 
-{% include row.html content='
-{% include column.html content="
+{% include row.html %}
+{% include column.html %}
 **Safe Democratic States (183)**
 
 * California
@@ -54,10 +54,10 @@ title: Presidential Election
 * Connecticut
 
 * District of Columbia
-"%}
+{% include endsection.html %} <!-- End Column -->
 
-{% include column.html content="
-  **Likely Democratic (28)**
+{% include column.html %}
+**Likely Democratic (28)**
 
 * Minnesota
 
@@ -98,10 +98,10 @@ title: Presidential Election
   **Likely Republican (18)**
 
 * Ohio
-" %}
+{% include endsection.html %} <!-- end column -->
 
-{% include column.html content="
-  **Safe Republican States (125)**
+{% include column.html %}
+**Safe Republican States (125)**
 
 * West Virginia
 
@@ -140,5 +140,5 @@ title: Presidential Election
 * Idaho
 
 * Wyoming
-" %}
-' %} <!-- close row -->
+{% include endsection.html %} <!-- end column -->
+{% include endsection.html %} <!-- end row -->
