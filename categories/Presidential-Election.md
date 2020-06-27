@@ -52,7 +52,7 @@ Rhode Island
 Connecticut
 
 District of Columbia
-{% include endsection.html %} <!-- End Column -->
+{% include endsection %} <!-- End Column -->
 
 {% include column %}
 **Likely Democratic (28)**
@@ -100,7 +100,7 @@ Iowa
 **Likely Republican (18)**
 
 Ohio
-{% include endsection.html %} <!-- end column -->
+{% include endsection %} <!-- end column -->
 
 {% include column %}
 **Safe Republican States (125)**
@@ -142,8 +142,8 @@ Utah
 Idaho
 
 Wyoming
-{% include endsection.html %} <!-- end column -->
-{% include endsection.html %} <!-- end row -->
+{% include endsection %} <!-- end column -->
+{% include endsection %} <!-- end row -->
 
 ## Pollster + Aggregation Sources
 

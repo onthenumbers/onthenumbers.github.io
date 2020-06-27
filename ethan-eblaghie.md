@@ -5,18 +5,74 @@ layout: page
 
 # My Documentaries
 
-{% include row %} {% include column %}
+---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aCJu1QyjfXo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### The Kirwan Commission Explained
 
-</div> {% include column %}
-
-#### The Kirwan Commission explained:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aCJu1QyjfXo" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The Kirwan commission is a Maryland-based education reform law. To learn more about it, watch this documentary.
 
-</div>
+---
 
+### A Trillion Trees
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IflfYdC0D-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-this is a test, page will be updated soon
+The trillion trees project is a un-sponsored environmental plan aimed at planting trees globally.
+
+---
+
+# My Senate Election Videos
+
+{% include row %} {% include column %}
+
+{% include youtube id="KtFrI9OE_9k" %}
+
+{% include endsection %} {% include column %}
+
+**Full Senate Election Videos**
+
+<- US Senate Predictions 2020
+
+JHK Senate Predictions 2020 ->
+
+{% include endsection %} {% include column %}
+
+{% include youtube id="FSGVNGFD3Pw"}
+
+{% include endsection %} {% include endsection %}
+
+### My Individual Senate videos (state by state analysis)
+
+{% include row %} {% include column %}
+
+{% include youtube id="CA4WDBgO6A0" %}
+
+Alaska
+
+{% include endsection %} {% include column %}
+
+{% include youtube id="9UdkklilQRo" %}
+
+Maine
+
+{% include endsection %} {% include column %}
+
+{% include youtube id="zRBZl4ZJXyk" %}
+
+Kansas
+
+{% include endsection %} {% include column %}
+
+{% include youtube id="0t7hG-0YrDk" %}
+
+Montana
+
+{% include endsection %} {% include endsection %}
+
+#### Kentucky Senate Analysis
+
+{% include youtube id="T79BuiwNXr4" %}
+
+Democratic Primary only, detailing the rivalry between Amy McGrath and Charles Booker. (Prior to the June 23rd primaries, so you can see what my prediction was at that time)
