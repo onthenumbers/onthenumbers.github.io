@@ -30,13 +30,13 @@ The trillion trees project is a un-sponsored environmental plan aimed at plantin
 
 #### US Senaate Predictions 2020
 
-{% include youtube id="KtFrI9OE_9k" %}
+{% include youtube id=KtFrI9OE_9k %}
 
 {% include endsection %} {% include column %}
 
 #### JHK Senate Predictions 2020
 
-{% include youtube id="FSGVNGFD3Pw"}
+{% include youtube id=FSGVNGFD3Pw %}
 
 {% include endsection %} {% include endsection %}
 
