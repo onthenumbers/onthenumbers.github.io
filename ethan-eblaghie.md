@@ -5,11 +5,11 @@ layout: page
 
 # My Documentaries
 
-{% include row %} {% include column.html %}
+{% include row %} {% include column %}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aCJu1QyjfXo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</div> {% include column.html %}
+</div> {% include column %}
 
 #### The Kirwan Commission explained:
 
