@@ -24,25 +24,39 @@ The trillion trees project is a un-sponsored environmental plan aimed at plantin
 
 ---
 
+# My Senate Election Videos
 
+{% include row %} {% include column %}
+
+#### US Senaate Predictions 2020
+
+{% include youtube id="KtFrI9OE_9k" %}
+
+{% include endsection %} {% include column %}
+
+#### JHK Senate Predictions 2020
+
+{% include youtube id="FSGVNGFD3Pw"}
+
+{% include endsection %} {% include endsection %}
 
 ### My Individual Senate videos (state by state analysis)
 
 #### Alaska
 
-<iframe width=560 height=315 src="https://www.youtube.com/embed/CA4WDBgO6A0" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
+{% include youtube id=CA4WDBgO6A0 %}
 
 #### Maine
 
-<iframe width=560 height=315 src="https://www.youtube.com/embed/9UdkklilQRo" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
+{% include youtube id=9UdkklilQRo %}
 
 #### Kansas
 
-<iframe width=560 height=315 src="https://www.youtube.com/embed/zRBZl4ZJXyk" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
+{% include youtube id=zRBZl4ZJXyk %}
 
 #### Montana
 
-<iframe width=560 height=315 src="https://www.youtube.com/embed/0t7hG-0YrDk" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
+{% include youtube id=0t7hG-0YrDk %}
 
 ---
 
