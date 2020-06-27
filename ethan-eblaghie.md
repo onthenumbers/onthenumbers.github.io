@@ -1,6 +1,7 @@
 ---
 title: Ethan Eblaghie
 layout: page
+sidebar_link: true
 ---
 
 # My Documentaries
@@ -23,7 +24,7 @@ The trillion trees project is a un-sponsored environmental plan aimed at plantin
 
 ---
 
-# My Senate Election Videos
+<!-- # My Senate Election Videos
 
 {% include row %} {% include column %}
 
@@ -41,38 +42,30 @@ JHK Senate Predictions 2020 ->
 
 {% include youtube id="FSGVNGFD3Pw"}
 
-{% include endsection %} {% include endsection %}
+{% include endsection %} {% include endsection %}-->
 
 ### My Individual Senate videos (state by state analysis)
 
-{% include row %} {% include column %}
+#### Alaska
 
-{% include youtube id="CA4WDBgO6A0" %}
+<iframe width=560 height=315 src="https://www.youtube.com/embed/CA4WDBgO6A0" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
 
-Alaska
+#### Maine
 
-{% include endsection %} {% include column %}
+<iframe width=560 height=315 src="https://www.youtube.com/embed/9UdkklilQRo" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
 
-{% include youtube id="9UdkklilQRo" %}
+#### Kansas
 
-Maine
+<iframe width=560 height=315 src="https://www.youtube.com/embed/zRBZl4ZJXyk" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
 
-{% include endsection %} {% include column %}
+#### Montana
 
-{% include youtube id="zRBZl4ZJXyk" %}
+<iframe width=560 height=315 src="https://www.youtube.com/embed/0t7hG-0YrDk" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
 
-Kansas
-
-{% include endsection %} {% include column %}
-
-{% include youtube id="0t7hG-0YrDk" %}
-
-Montana
-
-{% include endsection %} {% include endsection %}
+---
 
 #### Kentucky Senate Analysis
 
-{% include youtube id="T79BuiwNXr4" %}
+{% include youtube id=T79BuiwNXr4 %}
 
 Democratic Primary only, detailing the rivalry between Amy McGrath and Charles Booker. (Prior to the June 23rd primaries, so you can see what my prediction was at that time)
