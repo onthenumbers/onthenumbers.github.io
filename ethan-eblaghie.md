@@ -24,7 +24,7 @@ The trillion trees project is a un-sponsored environmental plan aimed at plantin
 
 ---
 
-<!-- # My Senate Election Videos
+<!--# My Senate Election Videos
 
 {% include row %} {% include column %}
 
@@ -34,9 +34,9 @@ The trillion trees project is a un-sponsored environmental plan aimed at plantin
 
 **Full Senate Election Videos**
 
-<- US Senate Predictions 2020
+ US Senate Predictions 2020
 
-JHK Senate Predictions 2020 ->
+JHK Senate Predictions 2020 
 
 {% include endsection %} {% include column %}
 
@@ -66,6 +66,6 @@ JHK Senate Predictions 2020 ->
 
 #### Kentucky Senate Analysis
 
-{% include youtube id=T79BuiwNXr4 %}
+<!--{% include youtube id=T79BuiwNXr4 %}-->
 
 Democratic Primary only, detailing the rivalry between Amy McGrath and Charles Booker. (Prior to the June 23rd primaries, so you can see what my prediction was at that time)
