@@ -23,8 +23,8 @@ category: Presidential Election
 
 <h3 style="text-align: center;">States in Play (231)</h3>
 
-{% include row.html %}
-{% include column.html %}
+{% include row %}
+{% include column %}
 **Safe Democratic States (183)**
 
 California
@@ -54,7 +54,7 @@ Connecticut
 District of Columbia
 {% include endsection.html %} <!-- End Column -->
 
-{% include column.html %}
+{% include column %}
 **Likely Democratic (28)**
 
 Minnesota
@@ -102,7 +102,7 @@ Iowa
 Ohio
 {% include endsection.html %} <!-- end column -->
 
-{% include column.html %}
+{% include column %}
 **Safe Republican States (125)**
 
 West Virginia
